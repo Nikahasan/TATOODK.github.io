@@ -1,0 +1,1819 @@
+/* Group 1 */
+
+position: absolute;
+width: 1480px;
+height: 5670px;
+
+
+
+/* Tatoo DK Home */
+
+position: absolute;
+width: 1480px;
+height: 5670px;
+
+background: #D6CDD0;
+
+
+/* 3 */
+
+position: absolute;
+width: 1516.47px;
+height: 754px;
+left: 44px;
+top: 1762px;
+
+
+
+/* Vector 24 */
+
+position: absolute;
+width: 601px;
+height: 679.5px;
+left: 880.5px;
+top: 1762px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px rgba(30, 30, 30, 0.66);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 667px;
+height: 75px;
+left: 415px;
+top: 2441px;
+
+background: #9B9B9B;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+
+
+/* Group 14 */
+
+position: absolute;
+width: 541.87px;
+height: 357.69px;
+left: 959px;
+top: 2115.22px;
+
+transform: rotate(-11.3deg);
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 500px;
+height: 260px;
+left: 976.45px;
+top: 2136.2px;
+
+background: #000000;
+transform: rotate(-11.3deg);
+
+
+/* 6833c9449cf2bbba7e204f01b620cfd3-Photoroom 1 */
+
+position: absolute;
+width: 261.88px;
+height: 254.76px;
+left: 1202.29px;
+top: 2179.32px;
+
+background: url(6833c9449cf2bbba7e204f01b620cfd3-Photoroom.png);
+transform: rotate(-25.35deg);
+
+
+/* d15de681512647636b0aab7f17438e5c-Photoroom 1 */
+
+position: absolute;
+width: 220.91px;
+height: 275px;
+left: 959px;
+top: 2115.22px;
+
+background: url(d15de681512647636b0aab7f17438e5c-Photoroom.png);
+transform: rotate(-11.3deg);
+
+
+/* Vector 11 */
+
+position: absolute;
+width: 224px;
+height: 76px;
+left: 1102.17px;
+top: 2112.09px;
+
+background: #AF5858;
+border: 1px solid #000000;
+transform: rotate(-11.3deg);
+
+
+/* Tatoo DK */
+
+position: absolute;
+width: 150px;
+height: 37px;
+right: 181.16px;
+top: 2105.82px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+transform: rotate(-11.3deg);
+
+
+/* Подарочный сертификат */
+
+position: absolute;
+width: 206px;
+height: 23px;
+left: 1128.64px;
+top: 2147.59px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 17px;
+
+color: #9B9B9B;
+
+transform: rotate(-11.3deg);
+
+
+/* Group 15 */
+
+position: absolute;
+width: 541.89px;
+height: 357.68px;
+left: 1023.75px;
+top: 1805px;
+
+transform: rotate(19.56deg);
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 500px;
+height: 260px;
+left: 1027.99px;
+top: 1831.97px;
+
+background: #000000;
+transform: rotate(19.56deg);
+
+
+/* 6833c9449cf2bbba7e204f01b620cfd3-Photoroom 1 */
+
+position: absolute;
+width: 261.88px;
+height: 254.76px;
+left: 1199.71px;
+top: 1984.84px;
+
+background: url(6833c9449cf2bbba7e204f01b620cfd3-Photoroom.png);
+transform: rotate(5.52deg);
+
+
+/* d15de681512647636b0aab7f17438e5c-Photoroom 1 */
+
+position: absolute;
+width: 220.94px;
+height: 274.99px;
+left: 1023.75px;
+top: 1805px;
+
+background: url(d15de681512647636b0aab7f17438e5c-Photoroom.png);
+transform: matrix(0.94, 0.33, -0.33, 0.94, 0, 0);
+
+
+/* Vector 11 */
+
+position: absolute;
+width: 224px;
+height: 76px;
+left: 1148.27px;
+top: 1875.77px;
+
+background: #AF5858;
+border: 1px solid #000000;
+transform: rotate(19.56deg);
+
+
+/* Tatoo DK */
+
+position: absolute;
+width: 150px;
+height: 37px;
+right: 138.45px;
+top: 1894.34px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+transform: rotate(19.56deg);
+
+
+/* Подарочный сертификат */
+
+position: absolute;
+width: 206px;
+height: 23px;
+left: 1152.77px;
+top: 1919.83px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 17px;
+
+color: #9B9B9B;
+
+transform: rotate(19.56deg);
+
+
+/* Group 13 */
+
+position: absolute;
+width: 541.87px;
+height: 357.69px;
+left: 959px;
+top: 1951px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 500px;
+height: 260px;
+left: 972px;
+top: 1975px;
+
+background: #000000;
+
+
+/* 6833c9449cf2bbba7e204f01b620cfd3-Photoroom 1 */
+
+position: absolute;
+width: 261.88px;
+height: 254.76px;
+left: 1185px;
+top: 2061.55px;
+
+background: url(6833c9449cf2bbba7e204f01b620cfd3-Photoroom.png);
+transform: rotate(-14.04deg);
+
+
+/* d15de681512647636b0aab7f17438e5c-Photoroom 1 */
+
+position: absolute;
+width: 220.86px;
+height: 275px;
+left: 959px;
+top: 1951px;
+
+background: url(d15de681512647636b0aab7f17438e5c-Photoroom.png);
+
+
+/* Vector 11 */
+
+position: absolute;
+width: 224px;
+height: 76px;
+left: 1100px;
+top: 1976px;
+
+background: #AF5858;
+border: 1px solid #000000;
+
+
+/* Tatoo DK */
+
+position: absolute;
+width: 150px;
+height: 37px;
+right: 183px;
+top: 1979px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Подарочный сертификат */
+
+position: absolute;
+width: 206px;
+height: 23px;
+left: 1119px;
+top: 2016px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 17px;
+
+color: #9B9B9B;
+
+
+
+/* Правила использования сертификата */
+
+position: absolute;
+width: 656px;
+height: 56px;
+left: 430px;
+top: 2460px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* Система подарочных сертификатов */
+
+position: absolute;
+width: 716px;
+height: 232px;
+left: 44px;
+top: 1778px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 76px;
+
+color: #AF5858;
+
+
+
+/* Дарите своим любимым и друзьям правильные подарки, которые останутся теплым воспоминанием о вас на всю жизнь. И даже, немного дольше. */
+
+position: absolute;
+width: 621px;
+height: 331px;
+left: 44px;
+top: 2016px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 1819.75px;
+height: 998px;
+left: -252px;
+top: 733px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1480px;
+height: 846px;
+left: 0px;
+top: 840px;
+
+background: #9B9B9B;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 326px;
+height: 95px;
+left: 577px;
+top: 851px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 311px;
+height: 95px;
+left: 577px;
+top: 851px;
+
+background: #000000;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Наши мастера */
+
+position: absolute;
+width: 292px;
+height: 59px;
+left: 611px;
+top: 872px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #D9D9D9;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 1480px;
+height: 819.53px;
+left: -0.5px;
+top: 882.47px;
+
+background: #AF5858;
+border: 1px solid #AF5858;
+box-shadow: 0px 4px 4px #FFFFFF;
+
+
+/* photo_2025-05-22_17-40-47-Photoroom 1 */
+
+position: absolute;
+width: 617px;
+height: 927px;
+left: -183px;
+top: 804px;
+
+background: url(photo_2025-05-22_17-40-47-Photoroom.png);
+
+
+/* photo_2025-05-22_17-41-01-Photoroom 1 */
+
+position: absolute;
+width: 985px;
+height: 554px;
+left: -252px;
+top: 1148px;
+
+background: url(photo_2025-05-22_17-41-01-Photoroom.png);
+
+
+/* photo_2025-05-22_17-40-39-Photoroom 1 */
+
+position: absolute;
+width: 726.75px;
+height: 969px;
+left: 841px;
+top: 733px;
+
+background: url(photo_2025-05-22_17-40-39-Photoroom.png);
+
+
+/* photo_2025-05-22_17-40-53-Photoroom 1 */
+
+position: absolute;
+width: 615px;
+height: 820px;
+left: 733px;
+top: 882px;
+
+background: url(photo_2025-05-22_17-40-53-Photoroom.png);
+
+
+/* Star 2 */
+
+position: absolute;
+width: 116px;
+height: 101px;
+left: 448px;
+top: 851px;
+
+background: #000000;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 116px;
+height: 101px;
+left: 318px;
+top: 851px;
+
+background: #000000;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Star 4 */
+
+position: absolute;
+width: 116px;
+height: 101px;
+left: 1059px;
+top: 851px;
+
+background: #000000;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Star 3 */
+
+position: absolute;
+width: 116px;
+height: 101px;
+left: 929px;
+top: 851px;
+
+background: #1E1E1E;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Артем Манукян тату-мастер в стиле графика */
+
+position: absolute;
+width: 342px;
+height: 90px;
+left: 235px;
+top: 994px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Андрей Неклюдов тату-мастер в стиле минимализм,пирсер */
+
+position: absolute;
+width: 279px;
+height: 275px;
+left: 64px;
+top: 1383px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Георгий Галустян тату-мастер в стиле ориентал,биомеханика,олд скул, мастер бодимодификаций */
+
+position: absolute;
+width: 466px;
+height: 349px;
+left: 453px;
+top: 1309px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Артур Нахушев Тату-мастер в стиле черно-белый реализм, азия, пирсер */
+
+position: absolute;
+width: 342px;
+height: 210px;
+left: 1059px;
+top: 1467px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 132px;
+height: 69px;
+left: 343px;
+top: 925px;
+
+background: #D9D9D9;
+border: 1px solid #D9D9D9;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector 10 */
+
+position: absolute;
+width: 161.51px;
+height: 148.35px;
+left: 235px;
+top: 1491px;
+
+background: #D9D9D9;
+
+
+/* Vector 9 */
+
+position: absolute;
+width: 173px;
+height: 197.03px;
+left: 1142px;
+top: 1267.94px;
+
+background: #D9D9D9;
+transform: rotate(-0.64deg);
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 168px;
+height: 83px;
+left: 661px;
+top: 1226px;
+
+background: #D9D9D9;
+
+
+/* 1 */
+
+position: absolute;
+width: 1612.95px;
+height: 957.5px;
+left: -1px;
+top: -157px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1480px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: #9B9B9B;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 507px;
+height: 825px;
+left: -1px;
+top: -25px;
+
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 465.5px;
+height: 800px;
+left: -1px;
+top: -1.5px;
+
+background: #AF5858;
+border: 1px solid #D9D9D9;
+box-shadow: 0px 4px 8px #D9D9D9;
+
+
+/* 4630e3f60eac870498fa8ae13e1cb99a-Photoroom 1 */
+
+position: absolute;
+width: 506px;
+height: 825px;
+left: 0px;
+top: -25px;
+
+background: url(4630e3f60eac870498fa8ae13e1cb99a-Photoroom.png);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 744.95px;
+height: 957.5px;
+left: 867px;
+top: -157px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 613px;
+height: 802px;
+left: 867px;
+top: -2px;
+
+background: #AF5858;
+border: 1px solid #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* 0ac4b8bc7dc96a01516f9cdef4b68b21-Photoroom 1 */
+
+position: absolute;
+width: 551.23px;
+height: 534px;
+left: 1480.23px;
+top: 266px;
+
+background: url(0ac4b8bc7dc96a01516f9cdef4b68b21-Photoroom.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* 8653813753e7edce9ba7cff4fa013929-Photoroom 1 */
+
+position: absolute;
+width: 475.57px;
+height: 633.88px;
+left: 1140.3px;
+top: -157px;
+
+background: url(8653813753e7edce9ba7cff4fa013929-Photoroom.png);
+border-radius: 262.5px;
+transform: rotate(7.37deg);
+
+
+/* Vector 25 */
+
+position: absolute;
+width: 145px;
+height: 113.23px;
+left: 1335px;
+top: 687.27px;
+
+background: #AF5858;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 88px;
+top: 18px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 88px;
+top: 18px;
+
+background: #000000;
+
+
+/* Мастера */
+
+position: absolute;
+width: 87px;
+height: 18px;
+left: 149px;
+top: 28px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 993px;
+top: 18px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 993px;
+top: 18px;
+
+background: #000000;
+
+
+/* Информация */
+
+position: absolute;
+width: 123px;
+height: 18px;
+left: 1037px;
+top: 28px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 314px;
+top: 18px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 314px;
+top: 18px;
+
+background: #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Прайс */
+
+position: absolute;
+width: 78px;
+height: 18px;
+left: 387px;
+top: 28px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 1219px;
+top: 18px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 192px;
+height: 38px;
+left: 1219px;
+top: 18px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Запись */
+
+position: absolute;
+width: 127px;
+height: 18px;
+left: 1257px;
+top: 28px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 255px;
+height: 90px;
+left: 622px;
+top: 18px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 255px;
+height: 90px;
+left: 622px;
+top: 18px;
+
+background: #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Tatoo DK */
+
+position: absolute;
+width: 176px;
+height: 42px;
+left: 687px;
+top: 42px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 42px;
+
+color: #D9D9D9;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 459px;
+height: 198px;
+left: 622px;
+top: 133px;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 459px;
+height: 198px;
+left: 622px;
+top: 133px;
+
+background: #D9D9D9;
+border: 1px solid #D9D9D9;
+box-shadow: 0px 4px 4px #AF5858;
+
+
+/* Tatoo DK- не просто студия тату, Мы искусство, Мы семья Мы профессионалы своего дела Мы навсегда */
+
+position: absolute;
+width: 322px;
+height: 119px;
+left: calc(50% - 322px/2 + 107px);
+top: 183px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 413px;
+height: 208px;
+left: 463px;
+top: 376px;
+
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 413px;
+height: 208px;
+left: 463px;
+top: 376px;
+
+background: #000000;
+border: 1px solid #000000;
+box-shadow: 0px 4px 8px #D9D9D9;
+
+
+/* Бьем уже 10 лет Более 10000+ клиентов Студия в центре */
+
+position: absolute;
+width: 346px;
+height: 120px;
+left: 513px;
+top: 401px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 483px;
+top: 411px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 483px;
+top: 453px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 483px;
+top: 521px;
+
+background: #D9D9D9;
+
+
+/* 4 */
+
+position: absolute;
+width: 1480px;
+height: 906px;
+left: 0px;
+top: 2535px;
+
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 1480px;
+height: 906px;
+left: 0px;
+top: 2535px;
+
+background: #9B9B9B;
+
+
+/* Vector 18 */
+
+position: absolute;
+width: 453.35px;
+height: 251.74px;
+left: 1014.54px;
+top: 2647.46px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Vector 16 */
+
+position: absolute;
+width: 505.87px;
+height: 285.24px;
+left: 1.85px;
+top: 3066.6px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Vector 17 */
+
+position: absolute;
+width: 483.76px;
+height: 346.2px;
+left: 992.03px;
+top: 3010.8px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9, 0px 4px 4px #D9D9D9;
+
+
+/* Vector 15 */
+
+position: absolute;
+width: 433px;
+height: 257.78px;
+left: 1.5px;
+top: 2637.67px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Vector 13 */
+
+position: absolute;
+width: 489.11px;
+height: 190.12px;
+left: 508.34px;
+top: 2540.5px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Price list */
+
+position: absolute;
+width: 504px;
+height: 113px;
+left: 540px;
+top: 2554px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 113px;
+
+color: #9B9B9B;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 466px;
+height: 59px;
+left: 511px;
+top: 2933px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Group 16 */
+
+position: absolute;
+width: 1429px;
+height: 666px;
+left: 34px;
+top: 2686px;
+
+
+
+/* Мастер: Артем */
+
+position: absolute;
+width: 315px;
+height: 58px;
+left: 34px;
+top: 2686px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+
+color: #D6CDD0;
+
+
+
+/* Мастер: Андрей */
+
+position: absolute;
+width: 351px;
+height: 58px;
+left: 1094px;
+top: 2686px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+
+color: #D6CDD0;
+
+
+
+/* Мастер: Георгий */
+
+position: absolute;
+width: 351px;
+height: 58px;
+left: 1094px;
+top: 3139px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+
+color: #D6CDD0;
+
+
+
+/* Стоимость работы за 1 час */
+
+position: absolute;
+width: 369px;
+height: 84px;
+left: 34px;
+top: 2744px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #D6CDD0;
+
+
+
+/* Мастер: Артур */
+
+position: absolute;
+width: 315px;
+height: 58px;
+left: 34px;
+top: 3139px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+
+color: #D6CDD0;
+
+
+
+/* Стоимость работы за 1 час */
+
+position: absolute;
+width: 369px;
+height: 84px;
+left: 34px;
+top: 3197px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #D6CDD0;
+
+
+
+/* Стоимость работы за 1 час */
+
+position: absolute;
+width: 369px;
+height: 84px;
+left: 1094px;
+top: 3197px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #D6CDD0;
+
+
+
+/* Стоимость работы за 1 час */
+
+position: absolute;
+width: 369px;
+height: 84px;
+left: 1094px;
+top: 2744px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #D6CDD0;
+
+
+
+/* 10000 */
+
+position: absolute;
+width: 243px;
+height: 113px;
+left: 175px;
+top: 2771px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 113px;
+
+color: #D6CDD0;
+
+
+
+/* 8000 */
+
+position: absolute;
+width: 203px;
+height: 113px;
+left: 175px;
+top: 3239px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 113px;
+
+color: #D6CDD0;
+
+
+
+/* 12000 */
+
+position: absolute;
+width: 238px;
+height: 113px;
+left: 1203px;
+top: 3239px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 113px;
+
+color: #D6CDD0;
+
+
+
+/* 10000 */
+
+position: absolute;
+width: 243px;
+height: 113px;
+left: 1203px;
+top: 2771px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 113px;
+
+color: #D6CDD0;
+
+
+
+/* Бесплатная консультация */
+
+position: absolute;
+width: 453px;
+height: 49px;
+left: 526px;
+top: 2943px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 495px;
+top: 2948px;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 11px;
+height: 0px;
+left: 508px;
+top: 2965px;
+
+transform: rotate(53.97deg);
+
+
+/* 5 */
+
+position: absolute;
+width: 1640px;
+height: 1534px;
+left: -40px;
+top: 3441px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 1478px;
+height: 1480px;
+left: 0px;
+top: 3495px;
+
+background: #AF5858;
+
+
+/* Vector 19 */
+
+position: absolute;
+width: 488.86px;
+height: 201.09px;
+left: 480.14px;
+top: 3441.56px;
+
+background: #D6CDD0;
+
+
+/* Наши работы */
+
+position: absolute;
+width: 483px;
+height: 74px;
+left: 487px;
+top: 3441px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 76px;
+
+color: rgba(30, 30, 30, 0.66);
+
+
+
+/* 0ac4b8bc7dc96a01516f9cdef4b68b21-Photoroom */
+
+position: absolute;
+width: 706px;
+height: 684px;
+left: 894px;
+top: 4291px;
+
+background: url(0ac4b8bc7dc96a01516f9cdef4b68b21-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+
+
+/* 7c749acfdb780b24f24713dae8f29788-Photoroom */
+
+position: absolute;
+width: 545.03px;
+height: 817.55px;
+left: 1008.22px;
+top: 3574.64px;
+
+background: url(7c749acfdb780b24f24713dae8f29788-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+transform: matrix(-0.96, 0.29, 0.29, 0.96, 0, 0);
+
+
+/* 27ec50f4d2d9de27f00ee2a410e638c2-Photoroom */
+
+position: absolute;
+width: 677px;
+height: 529px;
+left: 10px;
+top: 4136.14px;
+
+background: url(27ec50f4d2d9de27f00ee2a410e638c2-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+transform: rotate(-38.83deg);
+
+
+/* 4630e3f60eac870498fa8ae13e1cb99a-Photoroom */
+
+position: absolute;
+width: 547.09px;
+height: 892px;
+left: -40px;
+top: 3543.64px;
+
+background: url(4630e3f60eac870498fa8ae13e1cb99a-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+
+
+/* 39f18cfd41892d5360dde7ca0f9f3d92-Photoroom */
+
+position: absolute;
+width: 565.31px;
+height: 1005px;
+left: 913px;
+top: 3543.64px;
+
+background: url(39f18cfd41892d5360dde7ca0f9f3d92-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+
+
+/* 8d2471bee212667a9930f33a2a3913be-Photoroom */
+
+position: absolute;
+width: 429.19px;
+height: 763px;
+left: -33px;
+top: 4212px;
+
+background: url(8d2471bee212667a9930f33a2a3913be-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+
+
+/* 4c6ffcdcfd1b0e451406b10a5b168798-Photoroom */
+
+position: absolute;
+width: 704px;
+height: 880px;
+left: 381px;
+top: 4095px;
+
+background: url(4c6ffcdcfd1b0e451406b10a5b168798-Photoroom.png);
+filter: drop-shadow(0px 4px 4px #D9D9D9);
+
+
+/* 6 */
+
+position: absolute;
+width: 1480px;
+height: 695px;
+left: 0px;
+top: 4975px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1480px;
+height: 695px;
+left: 0px;
+top: 4975px;
+
+background: #9B9B9B;
+
+
+/* БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ ОСТАВЬТЕ СВОЮ ЗАЯВКУ И МЫ СВЯЖЕМСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ */
+
+position: absolute;
+width: 982px;
+height: 150px;
+left: 230px;
+top: 4995px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 76px;
+
+color: rgba(30, 30, 30, 0.66);
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 565px;
+height: 254px;
+left: 230px;
+top: 5196px;
+
+
+
+/* Vector 20 */
+
+position: absolute;
+width: 565px;
+height: 56px;
+left: 230px;
+top: 5196px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px #AF5858;
+
+
+/* Vector 21 */
+
+position: absolute;
+width: 565px;
+height: 56px;
+left: 230px;
+top: 5296px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px #AF5858;
+
+
+/* Vector 22 */
+
+position: absolute;
+width: 565px;
+height: 55px;
+left: 230px;
+top: 5395px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px #AF5858;
+
+
+/* Vector 23 */
+
+position: absolute;
+width: 428.33px;
+height: 86px;
+left: 926.18px;
+top: 5274px;
+
+background: #AF5858;
+box-shadow: 0px 4px 4px #D9D9D9;
+
+
+/* Нажимая на кнопку, Вы даете согласие на обработку персональных данных и соглашаетесь с политикой конфиденциальности */
+
+position: absolute;
+width: 1013px;
+height: 115px;
+left: 48px;
+top: 5493px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #D6CDD0;
+
+
+
+/* Отправить заявку */
+
+position: absolute;
+width: 229px;
+height: 42px;
+left: 1025px;
+top: 5302px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 169px;
+height: 225px;
+left: 252px;
+top: 5211px;
+
+
+
+/* ИМЯ */
+
+position: absolute;
+width: 109px;
+height: 26px;
+left: 252px;
+top: 5211px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #9B9B9B;
+
+
+
+/* +7999999999 */
+
+position: absolute;
+width: 169px;
+height: 24px;
+left: 252px;
+top: 5311px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #9B9B9B;
+
+
+
+/* ПОЧТА */
+
+position: absolute;
+width: 109px;
+height: 26px;
+left: 252px;
+top: 5410px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #9B9B9B;
+

@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tattoo DK - Элитный тату-салон</title>
+    <style>
+        /* Основные стили из вашего CSS */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Abhaya Libre', serif;
+            background: #D6CDD0;
+            color: #000000;
+        }
+        
+        /* Навигация */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 20px;
+        }
+        
+        .logo {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 36px;
+            color: #D9D9D9;
+            
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+        
+        .nav-links a {
+            color: #D9D9D9;
+            text-decoration: none;
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 15px;
+        }
+        
+        /* Герой секция */
+        .hero {
+            position: relative;
+            height: 100vh;
+            background: #9B9B9B;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            
+        }
+        
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            
+            text-align: center;
+            color: white;
+        }
+        
+        .hero h1 {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 64px;
+            margin-bottom: 20px;
+        }
+        
+        .hero p {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 24px;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+        
+        /* Секция мастеров */
+        .masters {
+            position: relative;
+            padding: 100px 20px;
+            background: #9B9B9B;
+        }
+        
+        .section-title {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 32px;
+            text-align: center;
+            margin-bottom: 50px;
+            color: #D9D9D9;
+        }
+        
+        .master-card {
+            background: #AF5858;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .master-name {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 36px;
+            color: #FFFFFF;
+            margin-bottom: 10px;
+        }
+        
+        .master-specialty {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 24px;
+            color: #D9D9D9;
+        }
+        
+        /* Секция сертификатов */
+        .certificates {
+            position: relative;
+            padding: 100px 20px;
+            background: #D6CDD0;
+        }
+        
+        .certificate-title {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 64px;
+            color: #AF5858;
+            margin-bottom: 50px;
+        }
+        
+        .certificate-text {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 32px;
+            max-width: 621px;
+            margin-bottom: 50px;
+        }
+        
+        .certificate-rules {
+            background: #9B9B9B;
+            padding: 20px;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+            margin-bottom: 50px;
+        }
+        
+        .rules-title {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 32px;
+            color: #000000;
+            margin-bottom: 20px;
+        }
+        
+        /* Секция прайса */
+        .pricing {
+            position: relative;
+            padding: 100px 20px;
+            background: #9B9B9B;
+        }
+        
+        .price-list-title {
+            font-family: 'Abhaya Libre Medium';
+            font-size: 96px;
+            color: #9B9B9B;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .price-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+        }
+        
+        .master-price-name {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 40px;
+            color: #D6CDD0;
+        }
+        
+        .price-description {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 32px;
+            color: #D6CDD0;
+        }
+        
+        .price-value {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 96px;
+            color: #D6CDD0;
+        }
+        
+        /* Секция работ */
+        .portfolio {
+            position: relative;
+            padding: 100px 20px;
+            background: #AF5858;
+        }
+        
+        .portfolio-title {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 64px;
+            color: rgba(30, 30, 30, 0.66);
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        /* Секция контактов */
+        .contact {
+            position: relative;
+            padding: 100px 20px;
+            background: #9B9B9B;
+        }
+        
+        .contact-title {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 64px;
+            color: rgba(30, 30, 30, 0.66);
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .contact-form {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-input {
+            width: 100%;
+            padding: 15px;
+            background: #D9D9D9;
+            border: none;
+            box-shadow: 0px 4px 4px #AF5858;
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 20px;
+        }
+        
+        .submit-btn {
+            background: #AF5858;
+            color: #FFFFFF;
+            border: none;
+            padding: 20px 40px;
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 24px;
+            cursor: pointer;
+            box-shadow: 0px 4px 4px #D9D9D9;
+        }
+        
+        .privacy-text {
+            font-family: 'Abhaya Libre SemiBold';
+            font-size: 32px;
+            color: #D6CDD0;
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Навигация -->
+    <nav>
+        <div class="logo">Tattoo DK</div>
+        <div class="nav-links">
+            <a href="#masters">Мастера</a>
+            <a href="#pricing">Прайс</a>
+            <a href="#info">Информация</a>
+            <a href="#contact">Запись</a
+        </div>
+    </nav>
+
+    <!-- Герой секция -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Tattoo DK</h1>
+            <p>Tattoo DK - не просто студия тату, Мы искусство, Мы семья Мы профессионалы своего дела Мы навсегда</p>
+        </div>
+    </section>
+
+    <!-- Секция мастеров -->
+    <section id="masters" class="masters">
+
+        <h2 class="section-title">Наши мастера</h2>
+        
+        <div class="master-card">
+            <h3 class="master-name">Артем Манукян</h3>
+            <img src="img/photo_2025-05-22_17-40-47-Photoroom.png">
+
+            <p class="master-specialty">тату-мастер в стиле графика</p>
+        </div>
+        
+        <div class="master-card">
+            <h3 class="master-name">Андрей Неклюдов</h3>
+             <img src="img/photo_2025-05-22_17-41-01-Photoroom.png">
+            <p class="master-specialty">тату-мастер в стиле минимализм, пирсер</p>
+        </div>
+        
+        <div class="master-card">
+            <h3 class="master-name">Георгий Галустян</h3>
+             <img src="img/photo_2025-05-22_17-40-53-Photoroom.png">
+            <p class="master-specialty">тату-мастер в стиле ориентал, биомеханика, олд скул, мастер бодимодификаций</p>
+        </div>
+        
+        <div class="master-card">
+            <h3 class="master-name">Артур Нахушев</h3>
+             <img src="img/photo_2025-05-22_17-40-39-Photoroom.png">
+            <p class="master-specialty">Тату-мастер в стиле черно-белый реализм, азия, пирсер</p>
+        </div>
+    </section>
+
+    <!-- Секция сертификатов -->
+    <section class="certificates">
+        <h2 class="certificate-title">Система подарочных сертификатов</h2>
+        <p class="certificate-text">Дарите своим любимым и друзьям правильные подарки, которые останутся теплым воспоминанием о вас на всю жизнь. И даже, немного дольше.</p>
+        
+        <div class="certificate-rules">
+             <img src="img/Group 19.png">
+            <h3 class="rules-title">Правила использования сертификата</h3>
+            <!-- Здесь будут правила -->
+        </div>
+    </section>
+
+    <!-- Секция прайса -->
+    <section id="pricing" class="pricing">
+        <h2 class="price-list-title">Price list</h2>
+        
+        <div class="price-item">
+           
+            <div>
+                <h3 class="master-price-name">Мастер: Артем</h3>
+                <p class="price-description">Стоимость работы за 1 час</p>
+            </div>
+            <div class="price-value">10000</div>
+        </div>
+        
+        <div class="price-item">
+            <div>
+                <h3 class="master-price-name">Мастер: Артур</h3>
+                <p class="price-description">Стоимость работы за 1 час</p>
+            </div>
+            <div class="price-value">8000</div>
+        </div>
+        
+        <div class="price-item">
+            <div>
+                <h3 class="master-price-name">Мастер: Георгий</h3>
+                <p class="price-description">Стоимость работы за 1 час</p>
+            </div>
+            <div class="price-value">12000</div>
+        </div>
+        
+        <div class="price-item">
+            <div>
+                <h3 class="master-price-name">Мастер: Андрей</h3>
+                <p class="price-description">Стоимость работы за 1 час</p>
+            </div>
+            <div class="price-value">10000</div>
+        </div>
+    </section>
+
+    <!-- Секция работ -->
+    <section class="portfolio">
+        <h2 class="portfolio-title">Наши работы</h2>
+        
+        <!-- Здесь будут работы -->
+         <img src="img/0ac4b8bc7dc96a01516f9cdef4b68b21-Photoroom.png">
+   <img src="img/4c6ffcdcfd1b0e451406b10a5b168798-Photoroom.png">
+   <img src="img/7c749acfdb780b24f24713dae8f29788-Photoroom.png">
+   <img src="img/8d2471bee212667a9930f33a2a3913be-Photoroom.png">
+   <img src="img/27ec50f4d2d9de27f00ee2a410e638c2-Photoroom.png">
+   <img src="img/39f18cfd41892d5360dde7ca0f9f3d92-Photoroom.png">
+   <img src="img/4630e3f60eac870498fa8ae13e1cb99a-Photoroom.png">
+   
+    </section>
+
+    <!-- Секция контактов -->
+    <section id="contact" class="contact">
+        <h2 class="contact-title">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</h2>
+        <p class="contact-title">ОСТАВЬТЕ СВОЮ ЗАЯВКУ И МЫ СВЯЖЕМСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ</p>
+        
+        <div class="contact-form">
+            <div class="form-group">
+                <input type="text" class="form-input" placeholder="ИМЯ">
+            </div>
+            <div class="form-group">
+                <input type="tel" class="form-input" placeholder="+7999999999">
+            </div>
+            <div class="form-group">
+                <input type="email" class="form-input" placeholder="ПОЧТА">
+            </div>
+            <button type="submit" class="submit-btn">Отправить заявку</button>
+        </div>
+        
+        <p class="privacy-text">Нажимая на кнопку, Вы даете согласие на обработку персональных данных и соглашаетесь с политикой конфиденциальности</p>
+    </section>
+
+    <script>
+        // Обработчики для кнопок навигации
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+        
+        // Обработчик формы
+        document.querySelector('.submit-btn').addEventListener('click', function() {
+            alert('Ваша заявка отправлена! Мы свяжемся с вами в ближайшее время.');
+        });
+        
+        // Можно добавить больше интерактивности по мере необходимости
+    </script>
+</body>
+</html>
